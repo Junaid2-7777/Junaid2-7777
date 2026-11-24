@@ -1,3 +1,3 @@
 # Temporary mirror
 
-I'm using this account as a temporary mirror because my main GitHub account is no longer publicly accessible.
+This is a mirror to my main github account.
