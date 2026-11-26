@@ -2,9 +2,9 @@
 
 This is a mirror of my main github account which will be used whenever my main becomes publically inaccesible. 
 
-__Contact me at:__  
+__Stalk me at:__  
 
-https://junaidahamed.runs-on.dev  
-junuhammad2@gmail.com  
-https://www.linkedin.com/in/junaidahamed7777/
+- [Portfolio](https://junaidahamed.runs-on.dev)  
+- [Gmail](junuhammad2@gmail.com)    
+- [LinkedIn](https://www.linkedin.com/in/junaidahamed7777/)
 
